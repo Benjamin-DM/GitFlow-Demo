@@ -1,2 +1,3 @@
 # GitFlow-Demo
-Repositorio de demostración para comandos GIT
+Readme de la rama feature
+Aquí se veran los cambios :v
